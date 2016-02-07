@@ -3,6 +3,8 @@ layout: page
 title: Projects
 ---
 
+[hello](about.md)
+
 The first project i have done in my undergraduate first year, which is
 > technically not project but boot-camp on Adobe Flex. I was fascinated my the technology, my parents got surprised **how can i sit in front of computer so long!!**.
 
