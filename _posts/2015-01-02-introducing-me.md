@@ -3,9 +3,7 @@ layout: post
 title: Connect
 ---
 
-Rahul Akula
+Rahul A
 Software Developer | Graduate Student
 
 arahulkmit@gmail.com
-
-
